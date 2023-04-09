@@ -1,0 +1,152 @@
+# ------------------------------------[UPDATE]--------------------------------------
+# Title: The Block List Project - https://d3ward.github.io/toolz/adblock.html
+# Expires: 1 day
+# Homepage: https://blocklist.site
+# Help: https://github.com/blocklistproject/lists/wiki/
+# License: https://unlicense.org
+# Total number of network filters: 2499
+# ------------------------------------[SUPPORT]-------------------------------------
+# You can support by:
+# - reporting false positives
+# - making a donation: https://paypal.me/blocklistproject
+# -------------------------------------[INFO]---------------------------------------
+#
+# https://d3ward.github.io/toolz/adblock.html
+# ------------------------------------[FILTERS]-------------------------------------
+0.0.0.0	Value.Amazon.analyticsengine.s3.amazonaws.com
+0.0.0.0	Value.Amazon.advice-ads.s3.amazonaws.com
+0.0.0.0	Value.Amazon.adtago.s3.amazonaws.com
+0.0.0.0	Value.Amazon.advertising-api-eu.amazon.com
+0.0.0.0	Value.Amazon.analytics.s3.amazonaws.com
+0.0.0.0	Value.Google Ads.afs.googlesyndication.com
+0.0.0.0	Value.Google Ads.pagead2.googleadservices.com
+0.0.0.0	Value.Google Ads.pagead2.googlesyndication.com
+0.0.0.0	Value.Google Ads.adservice.google.com
+0.0.0.0	Value.Doubleclick.net.ad.doubleclick.net
+0.0.0.0	Value.Doubleclick.net.stats.g.doubleclick.net
+0.0.0.0	Value.Doubleclick.net.static.doubleclick.net
+0.0.0.0	Value.Doubleclick.net.m.doubleclick.net
+0.0.0.0	Value.Doubleclick.net.mediavisor.doubleclick.net
+0.0.0.0	Value.Adcolony.events3alt.adcolony.com
+0.0.0.0	Value.Adcolony.wd.adcolony.com
+0.0.0.0	Value.Adcolony.ads30.adcolony.com
+0.0.0.0	Value.Adcolony.adc3-launch.adcolony.com
+0.0.0.0	Value.Media.net.adservetx.media.net
+0.0.0.0	Value.Media.net.static.media.net
+0.0.0.0	Value.Media.net.media.net
+0.0.0.0	Value.Google Analytics.app-measurement.com
+0.0.0.0	Value.Google Analytics.click.googleanalytics.com
+0.0.0.0	Value.Google Analytics.google-analytics.com
+0.0.0.0	Value.Google Analytics.ssl.google-analytics.com
+0.0.0.0	Value.Google Analytics.analytics.google.com
+0.0.0.0	Value.Hotjar.surveys.hotjar.com
+0.0.0.0	Value.Hotjar.adm.hotjar.com
+0.0.0.0	Value.Hotjar.insights.hotjar.com
+0.0.0.0	Value.Hotjar.events.hotjar.io
+0.0.0.0	Value.Hotjar.script.hotjar.com
+0.0.0.0	Value.Hotjar.careers.hotjar.com
+0.0.0.0	Value.Hotjar.identify.hotjar.com
+0.0.0.0	Value.MouseFlow.api.mouseflow.com
+0.0.0.0	Value.MouseFlow.tools.mouseflow.com
+0.0.0.0	Value.MouseFlow.mouseflow.com
+0.0.0.0	Value.MouseFlow.cdn-test.mouseflow.com
+0.0.0.0	Value.FreshWorks.fwtracks.freshmarketer.com
+0.0.0.0	Value.FreshWorks.freshmarketer.com
+0.0.0.0	Value.FreshWorks.claritybt.freshmarketer.com
+0.0.0.0	Value.Luckyorange.upload.luckyorange.net
+0.0.0.0	Value.Luckyorange.cs.luckyorange.net
+0.0.0.0	Value.Luckyorange.w1.luckyorange.com
+0.0.0.0	Value.Luckyorange.api.luckyorange.com
+0.0.0.0	Value.Luckyorange.luckyorange.com
+0.0.0.0	Value.Luckyorange.realtime.luckyorange.com
+0.0.0.0	Value.Luckyorange.settings.luckyorange.net
+0.0.0.0	Value.Luckyorange.cdn.luckyorange.com
+0.0.0.0	Value.Stats WP Plugin.stats.wp.com
+0.0.0.0	Value.Bugsnag.notify.bugsnag.com
+0.0.0.0	Value.Bugsnag.api.bugsnag.com
+0.0.0.0	Value.Bugsnag.sessions.bugsnag.com
+0.0.0.0	Value.Bugsnag.app.bugsnag.com
+0.0.0.0	Value.Sentry.browser.sentry-cdn.com
+0.0.0.0	Value.Sentry.app.getsentry.com
+0.0.0.0	Value.Facebook.an.facebook.com
+0.0.0.0	Value.Facebook.pixel.facebook.com
+0.0.0.0	Value.Twitter.static.ads-twitter.com
+0.0.0.0	Value.Twitter.ads-api.twitter.com
+0.0.0.0	Value.LinkedIn.ads.linkedin.com
+0.0.0.0	Value.LinkedIn.analytics.pointdrive.linkedin.com
+0.0.0.0	Value.Pinterest.log.pinterest.com
+0.0.0.0	Value.Pinterest.analytics.pinterest.com
+0.0.0.0	Value.Pinterest.ads.pinterest.com
+0.0.0.0	Value.Pinterest.trk.pinterest.com
+0.0.0.0	Value.Pinterest.widgets.pinterest.com
+0.0.0.0	Value.Reddit.events.redditmedia.com
+0.0.0.0	Value.Reddit.events.reddit.com
+0.0.0.0	Value.YouTube.ads.youtube.com
+0.0.0.0	Value.TikTok.analytics.tiktok.com
+0.0.0.0	Value.TikTok.log.byteoversea.com
+0.0.0.0	Value.TikTok.business-api.tiktok.com
+0.0.0.0	Value.TikTok.analytics-sg.tiktok.com
+0.0.0.0	Value.TikTok.ads-api.tiktok.com
+0.0.0.0	Value.TikTok.ads.tiktok.com
+0.0.0.0	Value.TikTok.ads-sg.tiktok.com
+0.0.0.0	Value.Yahoo.geo.yahoo.com
+0.0.0.0	Value.Yahoo.udcm.yahoo.com
+0.0.0.0	Value.Yahoo.gemini.yahoo.com
+0.0.0.0	Value.Yahoo.log.fc.yahoo.com
+0.0.0.0	Value.Yahoo.ads.yahoo.com
+0.0.0.0	Value.Yahoo.udc.yahoo.com
+0.0.0.0	Value.Yahoo.analytics.query.yahoo.com
+0.0.0.0	Value.Yahoo.analytics.yahoo.com
+0.0.0.0	Value.Yahoo.partnerads.ysm.yahoo.com
+0.0.0.0	Value.Yahoo.advertising.yahoo.com
+0.0.0.0	Value.Yahoo.adtech.yahooinc.com
+0.0.0.0	Value.Yandex.metrika.yandex.ru
+0.0.0.0	Value.Yandex.offerwall.yandex.net
+0.0.0.0	Value.Yandex.adfstat.yandex.ru
+0.0.0.0	Value.Yandex.advertising.yandex.ru
+0.0.0.0	Value.Yandex.adfox.yandex.ru
+0.0.0.0	Value.Yandex.appmetrica.yandex.ru
+0.0.0.0	Value.Yandex.extmaps-api.yandex.net
+0.0.0.0	Value.Unity.adserver.unityads.unity3d.com
+0.0.0.0	Value.Unity.auction.unityads.unity3d.com
+0.0.0.0	Value.Unity.webview.unityads.unity3d.com
+0.0.0.0	Value.Unity.config.unityads.unity3d.com
+0.0.0.0	Value.Realme.bdapi-in-ads.realmemobile.com
+0.0.0.0	Value.Realme.iot-eu-logser.realme.com
+0.0.0.0	Value.Realme.iot-logser.realme.com
+0.0.0.0	Value.Realme.bdapi-ads.realmemobile.com
+0.0.0.0	Value.Xiaomi.api.ad.xiaomi.com
+0.0.0.0	Value.Xiaomi.tracking.rus.miui.com
+0.0.0.0	Value.Xiaomi.sdkconfig.ad.xiaomi.com
+0.0.0.0	Value.Xiaomi.globalapi.ad.xiaomi.com
+0.0.0.0	Value.Xiaomi.data.mistat.rus.xiaomi.com
+0.0.0.0	Value.Xiaomi.data.mistat.india.xiaomi.com
+0.0.0.0	Value.Xiaomi.data.mistat.xiaomi.com
+0.0.0.0	Value.Xiaomi.sdkconfig.ad.intl.xiaomi.com
+0.0.0.0	Value.Oppo.data.ads.oppomobile.com
+0.0.0.0	Value.Oppo.ck.ads.oppomobile.com
+0.0.0.0	Value.Oppo.adsfs.oppomobile.com
+0.0.0.0	Value.Oppo.adx.ads.oppomobile.com
+0.0.0.0	Value.Huawei.grs.hicloud.com
+0.0.0.0	Value.Huawei.metrics.data.hicloud.com
+0.0.0.0	Value.Huawei.metrics2.data.hicloud.com
+0.0.0.0	Value.Huawei.logservice.hicloud.com
+0.0.0.0	Value.Huawei.logservice1.hicloud.com
+0.0.0.0	Value.Huawei.logbak.hicloud.com
+0.0.0.0	Value.OnePlus.open.oneplus.net
+0.0.0.0	Value.OnePlus.click.oneplus.cn
+0.0.0.0	Value.Samsung.nmetrics.samsung.com
+0.0.0.0	Value.Samsung.samsung-com.112.2o7.net
+0.0.0.0	Value.Samsung.smetrics.samsung.com
+0.0.0.0	Value.Samsung.analytics-api.samsunghealthcn.com
+0.0.0.0	Value.Samsung.samsungads.com
+0.0.0.0	Value.Apple.metrics.icloud.com
+0.0.0.0	Value.Apple.iadsdk.apple.com
+0.0.0.0	Value.Apple.notes-analytics-events.apple.com
+0.0.0.0	Value.Apple.weather-analytics-events.apple.com
+0.0.0.0	Value.Apple.advertising.apple.com
+0.0.0.0	Value.Apple.tr.iadsdk.apple.com
+0.0.0.0	Value.Apple.metrics.apple.com
+0.0.0.0	Value.Apple.metrics.mzstatic.com
+0.0.0.0	Value.Apple.api-adservices.apple.com
+0.0.0.0	Value.Apple.books-analytics-events.apple.com
